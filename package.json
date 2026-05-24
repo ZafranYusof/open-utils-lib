@@ -1,0 +1,17 @@
+{
+  "name": "open-utils-lib",
+  "version": "1.2.0",
+  "description": "Lightweight JavaScript string and number utility functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js",
+    "lint": "eslint src/"
+  },
+  "keywords": ["utilities", "string", "number", "helpers"],
+  "author": "RaizenXxx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaizenXxx/open-utils-lib"
+  }
+}
